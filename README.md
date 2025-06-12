@@ -16,5 +16,8 @@ CSS3: Estilização e responsividade da interface.
 
 JavaScript: Comportamentos interativos da página.
 
-##🔗 Acesse o projeto aqui:
+## Acesse o projeto aqui:
 https://brunohlima.github.io/clone-spotify/
+
+![image](https://github.com/user-attachments/assets/a9776565-2406-442e-a3b2-f14b9efe9c71)
+
